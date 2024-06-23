@@ -1,0 +1,395 @@
+{
+   "public_identifier":"shaileshkmr",
+   "profile_pic_url":"None",
+   "background_cover_image_url":"None",
+   "first_name":"Shailesh",
+   "last_name":"Kumar",
+   "full_name":"Shailesh Kumar",
+   "follower_count":"None",
+   "occupation":"Senior Analytics and Data Architect at SSE plc",
+   "headline":"Analytics and Data Architect",
+   "summary":"Data and Solutions Architect with over 18 years of experience in successfully architecting and designing large scale, complex, Data and Analytics projects. I have experience of working closely with Business and Technical stakeholders ensuring that architecture and design delivers on quality, cost and timelines.",
+   "country":"UK",
+   "country_full_name":"United Kingdom",
+   "city":"None",
+   "state":"None",
+   "experiences":[
+      {
+         "starts_at":{
+            "day":1,
+            "month":9,
+            "year":2019
+         },
+         "ends_at":"None",
+         "company":"SSE plc",
+         "company_linkedin_profile_url":"https://www.linkedin.com/company/sse-plc/",
+         "company_facebook_profile_url":"None",
+         "title":"Senior Analytics and Data Architect",
+         "description":"None",
+         "location":"None",
+         "logo_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/company/sse-plc/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240623%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240623T101126Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=94b8cefc9adac0f11560691f8ec1298be6bf3f77ed4d53e081859a478e00b7f1"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":8,
+            "year":2017
+         },
+         "ends_at":{
+            "day":1,
+            "month":8,
+            "year":2019
+         },
+         "company":"Tech Mahindra",
+         "company_linkedin_profile_url":"https://www.linkedin.com/company/tech-mahindra/",
+         "company_facebook_profile_url":"None",
+         "title":"Big Data and Solutions Architect",
+         "description":"None",
+         "location":"Maidenhead, United Kingdom",
+         "logo_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/company/tech-mahindra/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240623%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240623T101126Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=86485d2616a9f4d1c53fee6a6c23302073307bcdbaa77caf355df46fdae68627"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":7,
+            "year":2016
+         },
+         "ends_at":{
+            "day":1,
+            "month":7,
+            "year":2017
+         },
+         "company":"British Gas",
+         "company_linkedin_profile_url":"https://www.linkedin.com/company/british-gas/",
+         "company_facebook_profile_url":"None",
+         "title":"Data Architect",
+         "description":"None",
+         "location":"None",
+         "logo_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/company/british-gas/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240623%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240623T101126Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=1b0b8a1c905b9b1edd7295ce5a012fb602213460a8ccbe3b1499d6e56a24d926"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":3,
+            "year":2014
+         },
+         "ends_at":{
+            "day":1,
+            "month":6,
+            "year":2016
+         },
+         "company":"Hutchison 3G",
+         "company_linkedin_profile_url":"None",
+         "company_facebook_profile_url":"None",
+         "title":"Enterprise Information Design Lead",
+         "description":"None",
+         "location":"None",
+         "logo_url":"None"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":11,
+            "year":2011
+         },
+         "ends_at":{
+            "day":1,
+            "month":2,
+            "year":2014
+         },
+         "company":"IBM Global Business Services",
+         "company_linkedin_profile_url":"None",
+         "company_facebook_profile_url":"None",
+         "title":"Business Analytics and Optimisation",
+         "description":"Data Architect, Business Analytics and Optimization",
+         "location":"Bristol, United Kingdom",
+         "logo_url":"None"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":6,
+            "year":2010
+         },
+         "ends_at":{
+            "day":1,
+            "month":11,
+            "year":2011
+         },
+         "company":"Everything Everywhere Ltd",
+         "company_linkedin_profile_url":"https://www.linkedin.com/company/ee-uk/",
+         "company_facebook_profile_url":"None",
+         "title":"Senior Consultant (through THBS)",
+         "description":"None",
+         "location":"None",
+         "logo_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/company/ee-uk/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240623%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240623T101126Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=990f84a1b6e02125b53dd61daa0b2aae1d2efc5206f7c1282089e14927a049d9"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":9,
+            "year":2003
+         },
+         "ends_at":{
+            "day":1,
+            "month":5,
+            "year":2010
+         },
+         "company":"Orange Personal Communications Services Limited",
+         "company_linkedin_profile_url":"https://www.linkedin.com/company/orange/",
+         "company_facebook_profile_url":"None",
+         "title":"Senior Consultant (through THBS)",
+         "description":"None",
+         "location":"None",
+         "logo_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/company/orange/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240623%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240623T101126Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=36a7d058ce0a897925481142eaf0317f829127f0443d419d69aeed2d1d728cf0"
+      },
+      {
+         "starts_at":{
+            "day":1,
+            "month":8,
+            "year":2000
+         },
+         "ends_at":{
+            "day":1,
+            "month":11,
+            "year":2011
+         },
+         "company":"Torry Harris Business Solutions",
+         "company_linkedin_profile_url":"https://www.linkedin.com/company/torry-harris-integration-solutions/",
+         "company_facebook_profile_url":"None",
+         "title":"Senior Consultant",
+         "description":"None",
+         "location":"Bristol, United Kingdom",
+         "logo_url":"https://s3.us-west-000.backblazeb2.com/proxycurl/company/torry-harris-integration-solutions/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240623%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240623T101126Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=4bb77e4c074c34437d70a73a1a50d776e15c646b189bb13f9055ecd1385a4cef"
+      }
+   ],
+   "education":[
+      {
+         "starts_at":{
+            "day":1,
+            "month":1,
+            "year":1996
+         },
+         "ends_at":{
+            "day":1,
+            "month":1,
+            "year":2000
+         },
+         "field_of_study":"Computer Science",
+         "degree_name":"Bachelor of Engineering",
+         "school":"Manipal Institute of Technology",
+         "school_linkedin_profile_url":"None",
+         "school_facebook_profile_url":"None",
+         "description":"None",
+         "logo_url":"https://media.licdn.com/dms/image/C510BAQH66KkTTZFJ2A/company-logo_400_400/0/1583383285167?e=1683763200&v=beta&t=b-N8WjE6YelQ07Caw3aHftCsjTCYNy5lQtw1mkEUNG0",
+         "grade":"None",
+         "activities_and_societies":"None"
+      }
+   ],
+   "languages":[
+      
+   ],
+   "accomplishment_organisations":[
+      
+   ],
+   "accomplishment_publications":[
+      
+   ],
+   "accomplishment_honors_awards":[
+      
+   ],
+   "accomplishment_patents":[
+      
+   ],
+   "accomplishment_courses":[
+      
+   ],
+   "accomplishment_projects":[
+      
+   ],
+   "accomplishment_test_scores":[
+      
+   ],
+   "volunteer_work":[
+      {
+         "starts_at":{
+            "day":1,
+            "month":9,
+            "year":2018
+         },
+         "ends_at":"None",
+         "title":"Section Assistant",
+         "cause":"CHILDREN",
+         "company":"Scouts",
+         "company_linkedin_profile_url":"None",
+         "description":"None",
+         "logo_url":"None"
+      }
+   ],
+   "certifications":[
+      {
+         "starts_at":{
+            "day":1,
+            "month":2,
+            "year":2021
+         },
+         "ends_at":"None",
+         "name":"Machine Learning",
+         "license_number":"A6EMTSGW4PU7",
+         "display_source":"coursera.org",
+         "authority":"Coursera",
+         "url":"https://www.coursera.org/account/accomplishments/certificate/A6EMTSGW4PU7"
+      }
+   ],
+   "connections":"None",
+   "people_also_viewed":[
+      {
+         "link":"https://www.linkedin.com/in/babuchelat",
+         "name":"Babu Menon",
+         "summary":"Data Architect at BMW Group",
+         "location":"None"
+      },
+      {
+         "link":"https://www.linkedin.com/in/robert-laird-160533213",
+         "name":"Robert Laird",
+         "summary":"Senior Emerging Technologies Developer at SSE plc",
+         "location":"None"
+      },
+      {
+         "link":"https://www.linkedin.com/in/dean-mcgarry-bb800a2",
+         "name":"Dean McGarry",
+         "summary":"Architecture Manager at Scottish & Southern Energy",
+         "location":"None"
+      },
+      {
+         "link":"https://www.linkedin.com/in/nic-lydford-3a86422",
+         "name":"Nic Lydford",
+         "summary":"at",
+         "location":"None"
+      },
+      {
+         "link":"https://www.linkedin.com/in/damonlmccarthy",
+         "name":"Damon McCarthy",
+         "summary":"Lead Consultant at Retail",
+         "location":"None"
+      },
+      {
+         "link":"https://www.linkedin.com/in/manu-ramachandra-3b7b93b1",
+         "name":"Manu Ramachandra",
+         "summary":"Service Delivery Manager at Torry Harris Business Solutions",
+         "location":"None"
+      },
+      {
+         "link":"https://www.linkedin.com/in/sri-harsha-nag-05a303201",
+         "name":"Sri Harsha Nag",
+         "summary":"Manager at IQVIA",
+         "location":"None"
+      },
+      {
+         "link":"https://www.linkedin.com/in/raja-ranjith-kumar-a-b9593116b",
+         "name":"Raja Ranjith Kumar A",
+         "summary":"Staff Test Engineer",
+         "location":"None"
+      },
+      {
+         "link":"https://www.linkedin.com/in/rekha-babu-11974b221",
+         "name":"Rekha Babu",
+         "summary":"Salesforce Developer at Ribbon Communications",
+         "location":"None"
+      },
+      {
+         "link":"https://www.linkedin.com/in/raja-ranjith-kumar-gollapudi-41aab220a",
+         "name":"RAJA RANJITH KUMAR GOLLAPUDI",
+         "summary":"--",
+         "location":"None"
+      }
+   ],
+   "recommendations":[
+      "Niranjana Devi\n\n\n\nI am glad I had the opportunity to work beside Shailesh in quite a number of key assignments during his years with THBS. It was privilege and a great learning experience having him in my team. His knowledge of the technology never ceases to amaze me. He is one of those people who you see can take complete charge and control of any situation. Shailesh always took complete accountability of any situation he was presented with, and with his creative and refreshing ideas, ensured success. His efforts towards proposals and solutions have resulted in successes for us in that area and an increase in terms of more business and revenue. Besides being a great team player, he is an excellent mentor. The fact that he is a very self motivated individual, an avid learner helps him to play his mentor role well. His excellent listening skills and abundance of patience makes him a great mentor. He has great stakeholder management skills, which enabled him to perform the role of the system manager with ease. He was a joy to work with."
+   ],
+   "activities":[
+      
+   ],
+   "similarly_named_profiles":[
+      {
+         "name":"Shailesh Kumar",
+         "link":"https://in.linkedin.com/in/shailesh-kumar-2a892a89",
+         "summary":"SSE @ Walmart Global Tech | Data Structure | Algorithms | HLD | LLD | Java | Micro services",
+         "location":"Bengaluru"
+      },
+      {
+         "name":"Shailesh Kumar",
+         "link":"https://in.linkedin.com/in/shailesh941",
+         "summary":"Software Engineer | MEAN | MERN Developer",
+         "location":"Delhi, India"
+      },
+      {
+         "name":"Shailesh kumar",
+         "link":"https://in.linkedin.com/in/shailesh-kumar-3879a019",
+         "summary":"Software Engineer IN4 @ Walmart Labs | VMware | Micro Focus (Novell) | Wipro (Microsoft)",
+         "location":"Bengaluru"
+      },
+      {
+         "name":"Shailesh Kumar",
+         "link":"https://in.linkedin.com/in/shailesh-kumar-bb949483",
+         "summary":"SITE ENGINEER HIGHWAY  AIREF ENGINEERS PVT LTD",
+         "location":"Solan"
+      },
+      {
+         "name":"Shailesh Kumar",
+         "link":"https://in.linkedin.com/in/shailesh-kumar-7a77a6a3",
+         "summary":"Facility Manager",
+         "location":"Gurugram"
+      }
+   ],
+   "articles":[
+      
+   ],
+   "groups":[
+      
+   ],
+   "skills":[
+      "Data Warehousing",
+      "Data Modeling",
+      "Netezza",
+      "Dimensional Modeling",
+      "Business Intelligence",
+      "ETL",
+      "Data Warehouse Architecture",
+      "Data Integration",
+      "Solution Architecture",
+      "Business Objects",
+      "Oracle",
+      "Data Migration",
+      "Unix",
+      "Business Intelligence Tools",
+      "DB2",
+      "Data Quality",
+      "SQL",
+      "Datastage",
+      "Database Design",
+      "SDLC"
+   ],
+   "inferred_salary":{
+      "min":100000.0,
+      "max":150000.0
+   },
+   "gender":"None",
+   "birth_date":"None",
+   "industry":"Information Technology and Services",
+   "extra":{
+      "github_profile_id":"None",
+      "twitter_profile_id":"None",
+      "facebook_profile_id":"None"
+   },
+   "interests":[
+      
+   ],
+   "personal_emails":[
+      "shailesh.kmr@gmail.com",
+      "shailesh.kumar@three.co.uk"
+   ],
+   "personal_numbers":[
+      
+   ]
+}
