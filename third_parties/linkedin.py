@@ -6,7 +6,7 @@ load_dotenv()
 
 LINKEDIN_PROFILE_URL = "https://www.linkedin.com/in/shaileshkmr/"
 GIST_LINKEDIN_PROFILE = "https://gist.githubusercontent.com/sku1978/0c1f0ef3fefbe600a675ebcf00fc1695/raw/4bce3b5a29601c180f09a7eec75283d92706bf7f/shaileshkmr-linkedin.json"
-#GIST_LINKEDIN_PROFILE = "https://gist.githubusercontent.com/emarco177/0d6a3f93dd06634d95e46a2782ed7490/raw/fad4d7a87e3e934ad52ba2a968bad9eb45128665/eden-marco.json"
+# GIST_LINKEDIN_PROFILE = "https://gist.githubusercontent.com/emarco177/0d6a3f93dd06634d95e46a2782ed7490/raw/fad4d7a87e3e934ad52ba2a968bad9eb45128665/eden-marco.json"
 PROXYCURL_ENDPOINT = "https://nubela.co/proxycurl/api/v2/linkedin"
 
 
