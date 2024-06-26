@@ -2,7 +2,7 @@ import os
 from dotenv import load_dotenv
 from langchain.prompts.prompt import PromptTemplate
 from langchain_openai import ChatOpenAI
-from third_parties.linkedin import scrape_linkedin_profile
+from packages.third_parties.linkedin import scrape_linkedin_profile
 
 LINKEDIN_PROFILE_URL = "https://www.linkedin.com/in/shaileshkmr/"
 

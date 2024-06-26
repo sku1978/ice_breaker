@@ -1,7 +1,8 @@
 import os
 from dotenv import load_dotenv
-from tools.tools import get_profile_url_tavily
 
+
+from packages.tools.tools import get_profile_url_tavily
 
 load_dotenv()
 from langchain_openai import ChatOpenAI
@@ -13,7 +14,7 @@ from langchain import hub
 
 
 def lookup(name: str) -> str:
-    print(name)
+
     llm = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo")
 
     template = """Given a full name {name_of_person} I want you to get me a link to their Linkedin profile page.
@@ -36,7 +37,7 @@ def lookup(name: str) -> str:
     agent_executer = AgentExecutor(agent=agent, tools=tools_for_agent, verbose=True)
 
     result = agent_executer.invoke(
-        input={"input": prompt_template.format_promot(name_of_person=name)}
+        input={"input": prompt_template.format_prompt(name_of_person=name)}
     )
 
     linkedin_profile_url = result["output"]
