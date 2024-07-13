@@ -1,8 +1,12 @@
 import os
 from dotenv import load_dotenv
 
+import sys
 
-from packages.tools.tools import get_profile_url_tavily
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
+
+from tools.tools import get_profile_url_tavily
 
 load_dotenv()
 from langchain_openai import ChatOpenAI
@@ -27,7 +31,7 @@ def lookup(name: str) -> str:
     tools_for_agent = [
         Tool(
             name="Crawl Google 4 linkedin profile page",
-            func="get_profile_url_tavily",
+            func=get_profile_url_tavily,
             description="useful for when you need to get the Linkedin Page URL",
         )
     ]
@@ -45,5 +49,5 @@ def lookup(name: str) -> str:
 
 
 if __name__ == "__main__":
-    linkedin_url = lookup("Shailesh Kumar")
+    linkedin_url = lookup("Shailesh Kumar UK SSE")
     print(linkedin_url)
